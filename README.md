@@ -17,8 +17,7 @@ Following the previous tutorial again in Chapter 2.
 I connected the upper pin of the button to ESP32's 17, and the lower pin of the button to ESP32's another G pin.
 
 The picture of connected bread board is here.
-[]
-![20230228_111131.jpg](20230228_111131.jpg)
+![bread_board.jpg](bread_board.jpg)
 
 # Write Arduino code
 The Arduino code is written as uploaded in the git repository.

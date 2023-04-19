@@ -48,12 +48,15 @@ The video of running the program and the resulting animation is here.
 5. Decorate with woolen yarn and little beads
 
 ![dec.jpeg](dec.jpeg)
+
 *decorations*
 
 ![draw.jpeg](draw.jpeg)
+
 *detailed drawings*
 
 ![whole.jpeg](whole.jpeg)
+
 *overview of the enclosure*
 
 # Possible Technical Issues and Difficulties
